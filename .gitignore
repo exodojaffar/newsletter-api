@@ -117,3 +117,6 @@ dist
 # vercel
 .vercel
 
+#Custom
+*/code-test
+
